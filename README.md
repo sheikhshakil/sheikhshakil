@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheikhshakil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development using NodeJS & Django
+- 👀 I’m interested in Web development, Android Apps Development
+- 🌱 I’m currently learning Web Development using NodeJS & Django, Android Apps Dev. using Java & Kotlin
 - 📫 How to reach me - sheikhshakil.service@gmail.com
 
 <!---
