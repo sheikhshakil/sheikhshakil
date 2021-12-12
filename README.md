@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheikhshakil
 - 👀 I’m interested in Web development, Android Apps Development.
-- 🌱 I’m currently making myself expert in Web Development using NodeJS - MERN Stack, C# - .NET, PHP - Laravel, Android Apps Development using Java & Kotlin.
-- 📫 How to reach me - sheikhshakil.service@gmail.com
+- 🌱 I’m currently making myself expert in Web Development using NodeJS - MERN Stack, C# - .NET, PHP - Laravel, Android Apps Development using Java.
+- 📫 How to reach me - sheikhshakil.cse@gmail.com
 
 <!---
 sheikhshakil/sheikhshakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
